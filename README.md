@@ -36,7 +36,9 @@ To combat the speed advantage that only “structural insiders” have access to
 
 #### *IEX Cloud*
 
->IEX Cloud's mission statement is "To make quality financial data and services availible to everyone.  Financial data sets are often messy and incomplete.  In addition to having to sort through vast amounts of data, participants needing information on different markets or parameters might have to access dozens of different APIs in order to find what they are looking for.  To solve this problem, IEX Cloud provides highly curated, scrubbed and organized financial data on stocks, forex and crypto all through one API.   
+>Financial data sets are often messy and incomplete.  In addition to having to sort through vast amounts of data, participants that need information on different markets or parameters might have to access dozens of different APIs in order to find what they are looking for.  To solve this problem, IEX Cloud provides highly curated, scrubbed and organized financial data on stocks, forex and crypto all through one API.  The ultimate goal is to democratize access to quality financial data for everybody.
+
+
 >
     Sample API Code:
 
@@ -55,6 +57,11 @@ curl 'https://cloud.iexapis.com/v1/stock/aapl/ohlc/?token={your_token}'
     low: 193.79
 }
 ```
+
+#### *Rules Engine*
+
+As a subset of the Cloud platform, IEX has developed a "Rules Engine" tailored to users without coding experience.  Through an inutitive and simple interface users can build models and screens based on simple rules (eg. show me stocks whose price has increased >8% over the past 10 days whose PEG ratio is higher than 20).  By combining multiple data sets and handling all the computing and data storage in their cloud, users don't need to set up any storage infrastructure.
+
 
 ### **Target Market & Beneficiaries**
 
