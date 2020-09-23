@@ -89,9 +89,17 @@ To combat the advantages that only “structural insiders” have access to, IEX
 
 * **Impact**
 
-   After peaking at a little over 2.5% in July of 2019, IEX currently has around 1.8% listed US equity market share.
+   After peaking at a little over 2.5% in July of 2019, IEX currently has around 1.8%  of listed US equities market share.
 
    >![Historical Market Share](marketshare.jpg)
+
+   A lot of pundits have struggled to explain why IEX hasn't faired better since they got approval as a national securities exchange in 2016.  As the Financial Times stated in mid-2019:
+        
+   >>To some, it is a missed opportunity: a sign that the structures IEX hoped to dismantle have remained in place. The incumbent groups have retained their hegemony and HFTs still threaten to pick off the best prices from slower investors.
+   >>       
+   >>“I’m surprised [IEX’s] market share isn’t higher,” said Kevin Cronin, global head of trading for Invesco, the $955bn-in-assets firm based in Atlanta, who tried to hire Mr Katsuyama before he launched the exchange. “They have achieved a lot — but there’s a long way to go for IEX to achieve what many thought they would have.”  ([Source](https://www.ft.com/content/fc1a0d44-827a-11e9-b592-5fe435b57a3b))
+
+
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -120,6 +128,7 @@ To combat the advantages that only “structural insiders” have access to, IEX
 >* https://iexcloud.io/
 >* https://www.bloomberg.com/news/features/2019-03-08/the-gazillion-dollar-standoff-over-two-high-frequency-trading-towers
 >* https://ideas.darden.virginia.edu/innovations-for-fairer-markets-in-the-era-of-high-frequency-and-algorithmic-trading
+>* https://www.ft.com/content/fc1a0d44-827a-11e9-b592-5fe435b57a3b
 
 
 
