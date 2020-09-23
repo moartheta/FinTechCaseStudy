@@ -14,7 +14,7 @@
 
 ## Business Activities
 
-### **Reshaping the Incentive Structure**
+### **Reshaping the Incentive Structure and Building Fairer Markets**
 
 IEX aims to dismantle and re-engineer the incentive structure that most modern stock exchanges currently operate under.  Under this system, the exchanges incentivize liquidity providers to co-locate servers and deploy an ever increasing amount of computing power in an effort to shave thousandths of a millisecond off of trade times to exploit this speed incentive.  Ultimately, the actions of these market participants adversely affect institutional investors (who represent the 401k’s and pensions of millions of people) by obscuring true price discovery, depressing real liquidity and exacerbating periods of market instability.  
 
@@ -60,15 +60,20 @@ To combat the advantages that only “structural insiders” have access to, IEX
     }
 ```
 
->#### *Rules Engine*
+#### *Rules Engine*
 >
 >As a subset of the Cloud platform, IEX has developed a "Rules Engine" tailored to users without coding experience.  Through an inutitive and simple interface users can build models and screens based on simple rules (eg. show me stocks whose price has increased >8% over the past 10 days whose PEG ratio is higher than 20).  By combining multiple data sets and handling all the computing and data storage in their cloud, users don't need to set up any storage infrastructure.
 
 ## Market Landscape:
 
-* **Domain:** Investment Management and Capital Investment
+* **Domain:** Investment Management
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* **Trends and Innovations in this Area**
+
+    Despite the specter of the 2010 “Flash Crash” looming over markets for the past 10 years;  little has been done to change or challenge the status quo.  The latency arms race continues stronger than ever as entrenched firms with majority of market share double-down on incentivizing practices that harm smaller investors (Case in point: [Competing wireless data transmission towers owned by two HFT vie for precious inches to get closer to the CME derivatives server in a small Chicago suburb](https://www.bloomberg.com/news/features/2019-03-08/the-gazillion-dollar-standoff-over-two-high-frequency-trading-towers)).
+
+    The majority of innovations in Investment Management have come from ....(FINISH)
+
 
 * **Major Players in Domain:** 
 
@@ -82,7 +87,11 @@ To combat the advantages that only “structural insiders” have access to, IEX
 
 ## Results
 
-* What has been the business impact of this company so far?
+* **Impact**
+
+   After peaking at a little over 2.5% in July of 2019, IEX currently has around 1.8% listed US equity market share.
+
+   >![Historical Market Share](marketshare.jpg)
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -109,6 +118,10 @@ To combat the advantages that only “structural insiders” have access to, IEX
 >* https://iextrading.com/docs/The%20Evolution%20of%20the%20Crumbling%20Quote%20Signal.pdf
 >* https://youtu.be/-a10cCR9HoM
 >* https://iexcloud.io/
+>* https://www.bloomberg.com/news/features/2019-03-08/the-gazillion-dollar-standoff-over-two-high-frequency-trading-towers
+>* https://ideas.darden.virginia.edu/innovations-for-fairer-markets-in-the-era-of-high-frequency-and-algorithmic-trading
+
+
 
 
 
