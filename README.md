@@ -72,7 +72,7 @@ To combat the advantages that only “structural insiders” have access to, IEX
 
     Despite the specter of the 2010 “Flash Crash” looming over markets for the past 10 years;  little has been done to change or challenge the status quo.  The latency arms race rages on as entrenched firms with majority of market share double-down on incentivizing practices that harm smaller investors (Case in point: [Competing wireless data transmission towers owned by two HFT vie for precious inches to get closer to the CME derivatives server in a small Chicago suburb](https://www.bloomberg.com/news/features/2019-03-08/the-gazillion-dollar-standoff-over-two-high-frequency-trading-towers)).
 
-    The majority of innovations in Investment Management have come from ....(FINISH)
+    The majority of the growth in the Investment Management domain have come from the democratization of trading accounts, with companies like Robinhood and Cash app offering quick and easy access for anybody to start trading.  If anything, this has exacerbated the problem of unequal exchange dynamics as these companies are able to offer cost-free trades by selling their orderflow to HFT firms. 
 
 
 * **Major Players in Domain:** 
@@ -109,7 +109,7 @@ There are few widely accepted indicators used to evaluate the "market quality" o
 
 * *Liquidity:* As mentioned above, IEX's market share, and therefore overall trading volume, is smaller compared to more established exchanges.  However, because these exchanges offer an incentive in the form of a rebate to provide liquidity, it is import to assess liquidity not just in terms of quantity but also the *quality* of that liquidity:
 
-    * Midpoint Volume: Utilizing key innovations such as the *Crumbling Quote Indicator* and the speed bump, IEX has constructed a market that is very conducive to mid-point trading.  Because midpoint liquidity is not displayed, it is a useful way for investors to move large blocks of stocks without revealing their intention to buy or sell to the broader market.  Trades that occur at the midpoint are also cheaper because they don't have to cross the bid-ask spread.  For an exchange as small as IEX, the percentage of trades done at the midpoint are impressive:
+    * Midpoint Volume: Utilizing key innovations such as the *Crumbling Quote Indicator* and the speed bump, IEX has constructed a market that is very conducive to midpoint trading.  Because midpoint liquidity is not displayed, it is a useful way for investors to move large blocks of stocks without revealing their intention to buy or sell to the broader market.  Trades that occur at the midpoint are also cheaper because they don't have to cross the bid-ask spread.  For an exchange as small as IEX, the percentage of trades done at the midpoint are impressive:
 
         ![IEX Midpoint Volume](midpointvolume.jpg)
 
@@ -117,12 +117,19 @@ There are few widely accepted indicators used to evaluate the "market quality" o
 
         ![Queue Size](queuesize.jpg)    
 
-* *Quoted and Effective Spread:* The difference between the bid and offer prices is referred to as the quoted spread.  The effective spread looks at the midpoint of the bid-ask and compares it to the last executed trade.  Both of these indicators are a simple measure of calculating the cost of executing in a certain market.  IEX boasts the lowest effective spread out of any US equities market and the lowest Quoted/Effective spread ratio:
+* *Quoted and Effective Spread:* The difference between the bid and offer prices is referred to as the quoted spread.  The effective spread looks at the midpoint of the bid/ask and compares it to the last executed trade.  Both of these indicators are a simple measure of calculating the cost of executing in a certain market.  IEX boasts the lowest effective spread out of any US equities market and the lowest Quoted/Effective spread ratio:
 
     ![Spreads](spreads.jpg)
+
+* *Market Stability:* Market Stability facilitates efficient price discovery, lower execution costs, and greater liquidity.  In simple terms it can be defined as the ability of the market to digest large volumes of stock without creating excess volatility in prices.  The largest component in market stability is the stability in the bid/ask spread.  Because IEX's market structure emphasises midpoint trading there is inherently less impact on the bid/ask spread, which in turn promotes liquidity and price improvement.
    
 
-* How is your company performing relative to competitors in the same domain?
+**Performance Relative to Competitors**
+
+IEX has failed to gain substantial market share in US equities trading despite posting superior performance metrics versus competitors.  They briefly tried to get into the listing business, vying for a piece of the lucrative IPO market, but have since pulled out after only attracting one company (Interactive Brokers).  They continue to innovate on this side of the business, with approval for D-Peg orders (an evolution of their CQI) coming to market this year, in the hopes that they will continue to grow market share.    
+ 
+Recently they have started to build out their suite of cloud applications with IEX Cloud and IEX Astral, leveraging their internal technology to provide data services to various financial companies.  While this is certainly a growth area in their domain, it has a lot more competitors than their exchange business.
+
 
 
 ## Recommendations
