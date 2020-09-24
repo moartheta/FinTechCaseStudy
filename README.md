@@ -70,9 +70,9 @@ To combat the advantages that only “structural insiders” have access to, IEX
 
 * **Trends and Innovations in this Area**
 
-    Despite the specter of the 2010 “Flash Crash” looming over markets for the past 10 years;  little has been done to change or challenge the status quo.  The latency arms race rages on as entrenched firms with majority of market share double-down on incentivizing practices that harm smaller investors (Case in point: [Competing wireless data transmission towers owned by two HFT vie for precious inches to get closer to the CME derivatives server in a small Chicago suburb](https://www.bloomberg.com/news/features/2019-03-08/the-gazillion-dollar-standoff-over-two-high-frequency-trading-towers)).
+    Despite the specter of the 2010 “Flash Crash” looming over markets for the past 10 years;  little has been done to change or challenge the status quo.  The latency arms race rages on as entrenched firms with majority market share double-down on incentivizing practices that harm smaller investors (Case in point: [Competing wireless data transmission towers owned by two HFT vie for precious inches to get closer to the CME derivatives server in a small Chicago suburb](https://www.bloomberg.com/news/features/2019-03-08/the-gazillion-dollar-standoff-over-two-high-frequency-trading-towers)).
 
-    The majority of the growth in the Investment Management domain have come from the democratization of trading accounts, with companies like Robinhood and Cash app offering quick and easy access for anybody to start trading.  If anything, this has exacerbated the problem of unequal exchange dynamics as these companies are able to offer cost-free trades by selling their orderflow to HFT firms. 
+    The majority of the innovations in the investment management domain have come from the democratization of trading accounts, with companies like Robinhood and CashApp offering quick and easy access to a trading account.  If anything, this has exacerbated the problem of unequal exchange dynamics as these companies are able to offer cost-free trades by selling their orderflow to HFT firms. 
 
 
 * **Major Players in Domain:** 
