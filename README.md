@@ -101,17 +101,25 @@ A lot of pundits have struggled to explain why IEX hasn't faired better since th
 
 One key underestimation the founders made was how much of the industry centered around exchanges paying for order flow.  IEX doesn't offer rebates to market makers based on how much they trade whereas most other exchanges do (See Chart Below).  For example, the exchange will credit traders on a monthly basis a certain amount of cents per share based on their overall trading volume for that month.  The allure of this credit has been too strong to pass up for a lot of traders.  Anecdotally, at a previous hedge fund I worked at (which wasn't even a HFT shop rather a derivatives focused fund that traded a lot of underlying stock to hedge their derivatives exposure) the equity desk received these rebates.  They viewed it as a way to cut down on their overall brokerage and exchange fees. 
 
->![Rebates by Exchange](rebates.jpg)
+>   ![Rebates by Exchange](rebates.jpg)
 
 **Performance Metrics**
 
-There are few indicators used to evaluate the "market quality" of various exchanges.
+There are few widely accepted indicators used to evaluate the "market quality" of various exchanges.
 
 * *Liquidity:* As mentioned above, IEX's market share, and therefore overall trading volume, is smaller compared to more established exchanges.  However, because these exchanges offer an incentive in the form of a rebate to provide liquidity, it is import to assess liquidity not just in terms of quantity but also the *quality* of that liquidity:
 
     * Midpoint Volume: Utilizing key innovations such as the *Crumbling Quote Indicator* and the speed bump, IEX has constructed a market that is very conducive to mid-point trading.  Because midpoint liquidity is not displayed, it is a useful way for investors to move large blocks of stocks without revealing their intention to buy or sell to the broader market.  Trades that occur at the midpoint are also cheaper because they don't have to cross the bid-ask spread.  For an exchange as small as IEX, the percentage of trades done at the midpoint are impressive:
 
-    ![IEX Midpoint Volume](midpointvolume.jpg)     
+        ![IEX Midpoint Volume](midpointvolume.jpg)
+
+    * Size of Queue: Another key metric in evaluating liquidity is the probability of execution.  The larger the size of the queue, the longer it will take for orders at the end of it to start getting filled.  IEX has one of the smaller queue sizes out of competing exchanges:
+
+        ![Queue Size](queuesize.jpg)    
+
+* *Quoted and Effective Spread:* The difference between the bid and offer prices is referred to as the quoted spread.  The effective spread looks at the midpoint of the bid-ask and compares it to the last executed trade.  Both of these indicators are a simple measure of calculating the cost of executing in a certain market.  IEX boasts the lowest effective spread out of any US equities market and the lowest Quoted/Effective spread ratio:
+
+    ![Spreads](spreads.jpg)
    
 
 * How is your company performing relative to competitors in the same domain?
