@@ -70,7 +70,7 @@ To combat the advantages that only “structural insiders” have access to, IEX
 
 * **Trends and Innovations in this Area**
 
-    Despite the specter of the 2010 “Flash Crash” looming over markets for the past 10 years;  little has been done to change or challenge the status quo.  The latency arms race continues stronger than ever as entrenched firms with majority of market share double-down on incentivizing practices that harm smaller investors (Case in point: [Competing wireless data transmission towers owned by two HFT vie for precious inches to get closer to the CME derivatives server in a small Chicago suburb](https://www.bloomberg.com/news/features/2019-03-08/the-gazillion-dollar-standoff-over-two-high-frequency-trading-towers)).
+    Despite the specter of the 2010 “Flash Crash” looming over markets for the past 10 years;  little has been done to change or challenge the status quo.  The latency arms race rages on as entrenched firms with majority of market share double-down on incentivizing practices that harm smaller investors (Case in point: [Competing wireless data transmission towers owned by two HFT vie for precious inches to get closer to the CME derivatives server in a small Chicago suburb](https://www.bloomberg.com/news/features/2019-03-08/the-gazillion-dollar-standoff-over-two-high-frequency-trading-towers)).
 
     The majority of innovations in Investment Management have come from ....(FINISH)
 
@@ -87,22 +87,31 @@ To combat the advantages that only “structural insiders” have access to, IEX
 
 ## Results
 
-* **Impact**
+**Impact**
 
-   After peaking at a little over 2.5% in July of 2019, IEX currently has around 1.8%  of listed US equities market share.
+After peaking at a little over 2.5% in July of 2019, IEX currently has around 1.8%  of listed US equities market share.
 
    >![Historical Market Share](marketshare.jpg)
 
-   A lot of pundits have struggled to explain why IEX hasn't faired better since they got approval as a national securities exchange in 2016.  As the Financial Times stated in mid-2019:
+A lot of pundits have struggled to explain why IEX hasn't faired better since they got approval as a national securities exchange in 2016.  As the Financial Times stated in mid-2019:
         
    >>To some, it is a missed opportunity: a sign that the structures IEX hoped to dismantle have remained in place. The incumbent groups have retained their hegemony and HFTs still threaten to pick off the best prices from slower investors.
    >>       
    >>“I’m surprised [IEX’s] market share isn’t higher,” said Kevin Cronin, global head of trading for Invesco, the $955bn-in-assets firm based in Atlanta, who tried to hire Mr Katsuyama before he launched the exchange. “They have achieved a lot — but there’s a long way to go for IEX to achieve what many thought they would have.”  ([Source](https://www.ft.com/content/fc1a0d44-827a-11e9-b592-5fe435b57a3b))
 
-   One key underestimation the founders made was how much of the industry centered around exchanges paying for order flow.  IEX doesn't offer rebates to market makers based on how much they trade whereas most other exchanges do.  For example, the exchange will credit traders on a monthly basis a certain amount of cents per share based on their overall trading volume for that month.  The allure of this credit has been too strong to pass up for a lot of traders.  Anecdotally, at a previous hedge fund I worked at (which wasn't even a HFT shop rather a derivatives focused fund that traded a lot of underlying stock to hedge their derivatives exposure) the equity desk received these rebates.  They viewed it as a way to cut down on their overall brokerage and exchange fees. 
+One key underestimation the founders made was how much of the industry centered around exchanges paying for order flow.  IEX doesn't offer rebates to market makers based on how much they trade whereas most other exchanges do (See Chart Below).  For example, the exchange will credit traders on a monthly basis a certain amount of cents per share based on their overall trading volume for that month.  The allure of this credit has been too strong to pass up for a lot of traders.  Anecdotally, at a previous hedge fund I worked at (which wasn't even a HFT shop rather a derivatives focused fund that traded a lot of underlying stock to hedge their derivatives exposure) the equity desk received these rebates.  They viewed it as a way to cut down on their overall brokerage and exchange fees. 
 
-* **Performance Metrics**
+>![Rebates by Exchange](rebates.jpg)
 
+**Performance Metrics**
+
+There are few indicators used to evaluate the "market quality" of various exchanges.
+
+* *Liquidity:* As mentioned above, IEX's market share, and therefore overall trading volume, is smaller compared to more established exchanges.  However, because these exchanges offer an incentive in the form of a rebate to provide liquidity, it is import to assess liquidity not just in terms of quantity but also the *quality* of that liquidity:
+
+    * Midpoint Volume: Utilizing key innovations such as the *Crumbling Quote Indicator* and the speed bump, IEX has constructed a market that is very conducive to mid-point trading.  Because midpoint liquidity is not displayed, it is a useful way for investors to move large blocks of stocks without revealing their intention to buy or sell to the broader market.  Trades that occur at the midpoint are also cheaper because they don't have to cross the bid-ask spread.  For an exchange as small as IEX, the percentage of trades done at the midpoint are impressive:
+
+    ![IEX Midpoint Volume](midpointvolume.jpg)     
    
 
 * How is your company performing relative to competitors in the same domain?
