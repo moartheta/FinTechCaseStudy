@@ -66,13 +66,13 @@ To combat the advantages that only “structural insiders” have access to, IEX
 
 ## Market Landscape:
 
-* **Domain:** Investment Management
+* **Domain:** Investment Management - Equities Trading 
 
 * **Trends and Innovations in this Area**
 
     Despite the specter of the 2010 “Flash Crash” looming over markets for the past 10 years;  little has been done to change or challenge the status quo.  The latency arms race rages on as entrenched firms with majority market share double-down on incentivizing practices that harm smaller investors (Case in point: [Competing wireless data transmission towers owned by two HFT vie for precious inches to get closer to the CME derivatives server in a small Chicago suburb](https://www.bloomberg.com/news/features/2019-03-08/the-gazillion-dollar-standoff-over-two-high-frequency-trading-towers)).
 
-    According to co-founder Ronan Ryan, "All of the innovation in US equities in the last 10-15 years has been in dark trading."  With the thought process that lit markets (markets where the full size of the bid/offer is displayed) is better for everybody, IEX has launched the D-Limit order. The D-Limit, which is a derivative of their Crumbling Quote Indicator, offers even greater protection at the national best-bid best-offer (NBBO).  Using advanced predictive models based on artificial intelligence, it offers protection from latency arbitrage, which in turn offers greater security when posting lit quotes.  This embeded proteciton should encourge more market participants to post observable markets.     
+    According to co-founder Ronan Ryan, "All of the innovation in US equities in the last 10-15 years has been in dark trading."  With the thought process that lit markets (markets where the full size of the bid/offer is displayed) is better for everybody, IEX has launched the D-Limit order. The D-Limit, which is a derivative of their Crumbling Quote Indicator, offers even greater protection at the national best-bid best-offer (NBBO).  Using advanced predictive models based on artificial intelligence, it offers protection from latency arbitrage, which in turn offers greater security when posting lit quotes.  This embeded proteciton should encourge more market participants to post observable markets and stands as one of the more important innovations in this domain over the past decade.      
 
 
 * **Major Players in Domain:** 
@@ -135,13 +135,16 @@ Recently they have started to build out their suite of cloud applications with I
 
 ## Recommendations
 
-* Given the struggles they have encountered making inroads in US equities trading, I think the best course of action would be to continute to build out their suite of cloud applications and data-focused service platform.  Specifically  
+* The natural next step for IEX would be to list derivatives on the current stock symbols they offer.  I feel like all of the innovations they have pioneered are even more impactful when applied to options trading.  It is a natural corollary, as the price of an option is derived from the underlying stock price. When low latency traders can anticipate and subsequently cause quick and drastic changes in the underlying price, they can also pick off stale or slow options orders as well. 
 
-* Why do you think that offering this product or service would benefit the company?
+If you apply the technology behind the CQI, D-limit order and other latency arbitrage protections, you could create a very robust and competitive derivatives market.  Not only would market makers and traders benefit immensely from this market structure, but brokers who are filling orders for clients would find it incredibly attractive.  
 
-* What technologies would this additional product or service utilize?
+A client might not care if he gets a broker fill for a stock that is a penny worse than expected but because of the inherent leverage in options (especially so for options trades where the trader is hedging the delta with underlying stock) clients are way more sensitive to the quality of the fill.  With these protections in place, an IEX derivatives exchange would be the easy choice for brokers filling very price sensitive options orders and all other market participants alike. 
 
-* Why are these technologies appropriate for your solution?
+* Because the impact of their current technology and innovation would be magnified when applied to derivatives trading, I believe they would have an easier time competing with the established giants in this domain and quickly gain meaningful market share.  Furthermore, options fees and pricing is much higher than underlying stock, driving more revenue to their bottom line.
+
+* The beauty of this expansion is that all of the technology (machine learning, algorithms, artificial intelligence) already exists and can be scaled easily to derivatives trading.  Regulatory hurdles aside, I expect them to announce an entry into this field at some point in the near future as it makes a lot of sense.     
+
 
 
 >## *Research Notes:*
