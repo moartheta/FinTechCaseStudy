@@ -72,18 +72,21 @@ To combat the advantages that only “structural insiders” have access to, IEX
 
     Despite the specter of the 2010 “Flash Crash” looming over markets for the past 10 years;  little has been done to change or challenge the status quo.  The latency arms race rages on as entrenched firms with majority market share double-down on incentivizing practices that harm smaller investors (Case in point: [Competing wireless data transmission towers owned by two HFT vie for precious inches to get closer to the CME derivatives server in a small Chicago suburb](https://www.bloomberg.com/news/features/2019-03-08/the-gazillion-dollar-standoff-over-two-high-frequency-trading-towers)).
 
-    The majority of the innovations in the investment management domain have come from the democratization of trading accounts, with companies like Robinhood and CashApp offering quick and easy access to a trading account.  If anything, this has exacerbated the problem of unequal exchange dynamics as these companies are able to offer cost-free trades by selling their orderflow to HFT firms. 
+    According to co-founder Ronan Ryan, "All of the innovation in US equities in the last 10-15 years has been in dark trading."  With the thought process that lit markets (markets where the full size of the bid/offer is displayed) is better for everybody, IEX has launched the D-Limit order. The D-Limit, which is a derivative of their Crumbling Quote Indicator, offers even greater protection at the national best-bid best-offer (NBBO).  Using advanced predictive models based on artificial intelligence, it offers protection from latency arbitrage, which in turn offers greater security when posting lit quotes.  This embeded proteciton should encourge more market participants to post observable markets.     
 
 
 * **Major Players in Domain:** 
 
     | Old Guard      | New Comers |
     | -----------    | ----------- |
-    | NYSE/ICE       | MEMX      |
-    | Nasdaq         | Coinbase (Stablecoin)       |
-    | AMEX           |    Clarity - Bidrate   |
-    | BATS           | BTS Spark       |
+    | NYSE/ICE       | MEMX (Members Exchange)      |
+    | Nasdaq         | LTSE (Long Term Stock Exchange)      |
+    | CBOE           |    Clarity - Bidrate   |
+    |                | BTS Spark       |
 
+Two new alternative exchanges are opening up later this year, the MEMX (Members Exchange) and the LTSE (Long Term Stock Exchange).  Currently there are 13 approved US stock exchanges - five of them owned by the NYSE/ICE, four owned by Cboe Global Markets, three owned by the NASDAQ and the sole independently owned exchange being IEX.  
+
+These two new entrants are targeting specific segments of the market: MEMX is a collaboration between Wall Streets biggest buy-side traders, aiming to lower the exorbitant fees charged by the big 3 exchanges and LTSE is targeting investors who take a long-term view on companies dedicated towards Enviromental, Social and Governance goals for corporate America.  Both exchanges, but specifically MEMX, will offer up a strong challenge to IEX as they are also targeting the cost aspect of trading.  
 
 ## Results
 
@@ -126,15 +129,13 @@ There are few widely accepted indicators used to evaluate the "market quality" o
 
 **Performance Relative to Competitors**
 
-IEX has failed to gain substantial market share in US equities trading despite posting superior performance metrics versus competitors.  They briefly tried to get into the listing business, vying for a piece of the lucrative IPO market, but have since pulled out after only attracting one company (Interactive Brokers).  They continue to innovate on this side of the business, with approval for D-Peg orders (an evolution of their CQI) coming to market this year, in the hopes that they will continue to grow market share.    
+IEX has failed to gain substantial market share in US equities trading despite posting superior performance metrics versus competitors.  They briefly tried to get into the listing business, vying for a piece of the lucrative IPO market, but have since pulled out after only attracting one company (Interactive Brokers).  They continue to innovate on this side of the business, with approval for D-Peg orders (an evolution of their CQI) coming to market this year, in an effort to grow market share.  
  
 Recently they have started to build out their suite of cloud applications with IEX Cloud and IEX Astral, leveraging their internal technology to provide data services to various financial companies.  While this is certainly a growth area in their domain, it has a lot more competitors than their exchange business.
 
-
-
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* Given the struggles they have encountered making inroads in US equities trading, I think the best course of action would be to continute to build out their suite of cloud applications and data-focused service platform.  Specifically  
 
 * Why do you think that offering this product or service would benefit the company?
 
@@ -157,6 +158,15 @@ Recently they have started to build out their suite of cloud applications with I
 >* https://www.ft.com/content/fc1a0d44-827a-11e9-b592-5fe435b57a3b
 >* https://iextrading.com/docs/A%20Comparison%20of%20Execution%20Quality%20across%20U.S.%20Stock%20Exchanges.pdf
 >* https://www.tradersmagazine.com/am/the-iex-d-limit-proposal-its-goodbut-what-if-its-too-good/
+>* https://www.fastcompany.com/company/iex
+>* https://iextrading.com/about/press/op-ed-3/
+>* https://www.cnbc.com/2020/09/09/a-spate-of-new-stock-exchanges-are-ready-to-launch-that-want-to-compete-for-your-trading-dollar.html
+>* https://www.marketsmedia.com/more-innovation-ahead-in-us-displayed-markets/
+
+
+
+
+
 
 
 
