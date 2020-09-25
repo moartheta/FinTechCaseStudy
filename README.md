@@ -84,9 +84,9 @@ To combat the advantages that only “structural insiders” have access to, IEX
     | CBOE           |    Clarity - Bidrate   |
     |                | BTS Spark       |
 
-Two new alternative exchanges are opening up later this year, the MEMX (Members Exchange) and the LTSE (Long Term Stock Exchange).  Currently there are 13 approved US stock exchanges - five of them owned by the NYSE/ICE, four owned by Cboe Global Markets, three owned by the NASDAQ and the sole independently owned exchange being IEX.  
+    Two new alternative exchanges are opening up later this year, the MEMX (Members Exchange) and the LTSE (Long Term Stock Exchange).  Currently there are 13 approved US stock exchanges - five of them owned by the NYSE/ICE, four owned by Cboe Global Markets, three owned by the NASDAQ and the sole independently owned exchange being IEX.  
 
-These two new entrants are targeting specific segments of the market: MEMX is a collaboration between Wall Streets biggest buy-side traders, aiming to lower the exorbitant fees charged by the big 3 exchanges and LTSE is targeting investors who take a long-term view on companies dedicated towards Enviromental, Social and Governance goals for corporate America.  Both exchanges, but specifically MEMX, will offer up a strong challenge to IEX as they are also targeting the cost aspect of trading.  
+    These two new entrants are targeting specific segments of the market: MEMX is a collaboration between Wall Streets biggest buy-side traders, aiming to lower the exorbitant fees charged by the big 3 exchanges and LTSE is targeting investors who take a long-term view on companies dedicated towards Enviromental, Social and Governance goals for corporate America.  Both exchanges, but specifically MEMX, will offer up a strong challenge to IEX as they are also targeting the cost aspect of trading.  
 
 ## Results
 
@@ -135,15 +135,15 @@ Recently they have started to build out their suite of cloud applications with I
 
 ## Recommendations
 
-* The natural next step for IEX would be to list derivatives on the current stock symbols they offer.  I feel like all of the innovations they have pioneered are even more impactful when applied to options trading.  It is a natural corollary, as the price of an option is derived from the underlying stock price. When low latency traders can anticipate and subsequently cause quick and drastic changes in the underlying price, they can also pick off stale or slow options orders as well. 
+The natural next step for IEX would be to list derivatives on the current stock symbols they offer.  I feel like all of the innovations they have pioneered are even more impactful when applied to options trading.  It is a natural corollary, as the price of an option is derived from the underlying stock price. When low latency traders can anticipate and subsequently cause quick and drastic changes in the underlying price, they can also pick off stale or slow options orders as well. 
 
 If you apply the technology behind the CQI, D-limit order and other latency arbitrage protections, you could create a very robust and competitive derivatives market.  Not only would market makers and traders benefit immensely from this market structure, but brokers who are filling orders for clients would find it incredibly attractive.  
 
 A client might not care if he gets a broker fill for a stock that is a penny worse than expected but because of the inherent leverage in options (especially so for options trades where the trader is hedging the delta with underlying stock) clients are way more sensitive to the quality of the fill.  With these protections in place, an IEX derivatives exchange would be the easy choice for brokers filling very price sensitive options orders and all other market participants alike. 
 
-* Because the impact of their current technology and innovation would be magnified when applied to derivatives trading, I believe they would have an easier time competing with the established giants in this domain and quickly gain meaningful market share.  Furthermore, options fees and pricing is much higher than underlying stock, driving more revenue to their bottom line.
+Because the impact of their current technology and innovation would be magnified when applied to derivatives trading, I believe they would have an easier time competing with the established giants in this domain and quickly gain meaningful market share.  Furthermore, options fees and pricing is much higher than underlying stock, driving more revenue to their bottom line.
 
-* The beauty of this expansion is that all of the technology (machine learning, algorithms, artificial intelligence) already exists and can be scaled easily to derivatives trading.  Regulatory hurdles aside, I expect them to announce an entry into this field at some point in the near future as it makes a lot of sense.     
+The beauty of this expansion is that all of the technology (machine learning, algorithms, artificial intelligence) already exists and can be scaled easily to derivatives trading.  Regulatory hurdles aside, I expect them to announce an entry into this field at some point in the near future as it makes a lot of sense.     
 
 
 
